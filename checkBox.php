@@ -15,4 +15,3 @@ echo $fruits[1];
 
 ?>
 </body>
-
